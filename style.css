@@ -1,0 +1,275 @@
+/* reset margin, padding */
+body {
+    margin: 0 !important;
+    padding: 0 !important; 
+}
+
+.div1 {
+    height: 90vh;
+    width: 100%;
+    background: url(./img/hero-bg.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+/* Div 1 */
+.medilab {
+    height: 68px;
+    width: 100%;   
+    text-align: right;
+    margin-top: 40px;
+    padding-top: 45px;
+    padding-bottom: 4px;
+    border: 2px solid white;
+    background-color: white;
+}
+
+
+
+/* display: block hien thi tren 1 dong
+float: right dich sang ben phai 
+ text-decoration: none; bo gach chan the <a>*/
+a.home {
+    /* display: block;
+    float: right; */
+    text-decoration: none;
+    margin-left:  30px;
+    color: black;
+}
+a.about {
+    /* display: block;
+    float: right; */
+    text-decoration: none;
+    margin-left:  30px;
+    color: black;
+}
+
+a.services {
+    /* display: block;
+    float: right; */
+    text-decoration: none;
+    margin-left:  30px;
+    color: black;
+}
+
+ a.departments {
+    /* display: block;
+    float: right; */
+    text-decoration: none;
+    margin-left:  30px;
+    color: black;
+ }
+
+ a.doctor {
+    /* display: block;
+    float: right; */
+    text-decoration: none;
+    margin-left:  30px;
+    color: black;
+ }
+
+ a.contact {
+    /* display: block;
+    float: right; */
+    text-decoration: none;
+    margin-left:  30px;
+    color: black;
+ }
+
+ a.make_an_appointment {
+    /* display: block;
+    float: right; */
+    text-decoration: none;
+    margin-right: 250px;
+    border: 2px solid blue;
+    background-color: blue;
+    color: white;
+    margin-left:  30px;
+    border-radius: 15px ;
+    padding: 10px;
+ }
+ /* End Div 1 */
+
+ /*Div 2*/
+ .welcome {
+    font-size: 50px;
+    margin-top: 150px;
+    margin-left: 100px;
+    color: rgb(4, 4, 47);
+ }
+
+ .p1_doctors {
+    margin-left: 100px;
+    font-size: 35px;
+    color: rgb(4, 4, 47);
+ }
+
+a.started {
+    text-decoration: none;
+    margin-left: 100px;
+    font-size: 25px;
+    color: white;
+    border-radius: 20px;
+    padding: 15px 25px 15px 25px;
+    background-color: rgb(13, 0, 255);
+}
+/*End Div 2 */
+
+
+
+/* article_main_1 */
+ .article_main_1 {
+    border: 2px solid blue;
+    background-color: blue;
+    color: white;
+    margin-top: 200px ;
+    margin-left: 60px;
+    width: 500px;
+    display: inline-block;
+} 
+
+.article_main_1_h1 {
+    font-size: 40px;
+    padding: 10px 30px 10px 30px;
+}
+
+.article_main_1_p {
+    font-size: 25px;
+    padding: 20px 30px 20px 30px;
+}
+
+.article_main_2 {
+    border: 2px solid blue;
+    background-color: white;
+    margin-top: 80px ;
+    margin-left: 55px;
+    width: 400px;
+    display: inline-block;
+}
+
+.article_main_2_h1 {
+    color: rgba(0, 0, 0, 0.912);
+    font-size: 40px;
+    padding: 10px 30px 10px 30px;
+}
+
+.article_main_2_p {
+    color: rgba(0, 0, 0, 0.750);
+    font-size: 25px;
+    padding: 20px 30px 20px 30px;
+}
+
+.article_main_3 {
+    border: 2px solid blue;
+    background-color: white;
+    width: 400px;
+    margin-top: 80px;
+    margin-left: 55px;
+    display: inline-block;
+}
+
+.article_main_3_h1 {
+    color: rgba(0, 0, 0, 0.912);
+    font-size: 40px;
+    padding: 10px 30px 10px 30px;
+}
+
+.article_main_3_p {
+    color: rgba(0, 0, 0, 0.750);
+    font-size: 25px;
+    padding: 20px 30px 20px 30px;
+}
+
+.article_main_4 {
+    border: 2px solid blue;
+    background-color: white;
+    width: 400px;
+    margin-top: 80px;
+    margin-left: 55px;
+    margin-right: 60px;
+    display: inline-block;
+}
+
+.article_main_4_h1 {
+    color: rgba(0, 0, 0, 0.912);
+    font-size: 40px;
+    padding: 10px 30px 10px 30px;
+}
+
+.article_main_4_p {
+    color: rgba(0, 0, 0, 0.750);
+    font-size: 25px;
+    padding: 20px 30px 20px 30px;
+}
+
+.article_main_1, .article_main_2, .article_main_3, .article_main_4 {
+    border-radius: 25px;
+    text-align: center;
+}
+/* End article_main_1*/
+
+/*about*/
+.article_about_div {
+    width: 40%;
+    display: inline-block;
+    margin-left: 350px;
+   
+}
+.article_about_div1{
+    margin-bottom: 85px; 
+} 
+
+.article_about_div1_h2 {
+    font-size: 35px;
+}
+.article-about_div1_p {
+    font-size: 25px;
+    
+}
+
+
+.article_about_div2{
+    margin-left: 100px;
+    
+}
+.article_about_div2_a {
+    font-size: 25px;
+    text-decoration: none;
+}
+.article-about_div2_p {
+    font-size: 27px;
+}
+
+
+ .article_about_div3{
+    margin-left: 100px;
+    
+ }
+ .article_about_div3_a {
+    font-size: 25px;
+    text-decoration: none;
+}
+.article-about_div3_p {
+    font-size: 27px;
+}
+
+
+  .article_about_div4 {
+    margin-left: 100px;
+   
+}
+.article_about_div4_a {
+    font-size: 25px;
+    text-decoration: none;
+}
+.article-about_div4_p {
+    font-size: 27px;
+   
+}
+
+.picture_about {
+    width: 600px;
+    height: 1293px;
+    display: inline-block;
+    margin: 100px;
+    margin-left: 60px;
+}
